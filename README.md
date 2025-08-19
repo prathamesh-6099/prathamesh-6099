@@ -20,20 +20,22 @@
 <!-- Snake Game Repo View -->
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=prathamesh-6099&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=prathamesh-6099&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=prathamesh-6099&theme=vision-friendly-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=prathamesh-6099&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br>
+![](https://nirzak-streak-stats.vercel.app/?user=prathamesh-6099&theme=vision-friendly-dark&hide_border=false)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prathamesh-6099&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=prathamesh-6099&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true)
+
+
+
+
+
 
 [![](https://visitcount.itsvg.in/api?id=prathamesh-6099&icon=0&color=1)](https://visitcount.itsvg.in)
 
